@@ -1,0 +1,36 @@
+body
+{
+  margin: auto;
+  background-image: url("../images/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+img
+{
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222);
+}
+
+.header
+{
+  position: fixed;
+  top: 25%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -120px;
+}
+
+.body
+{
+  position: fixed;
+  top: 75%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+
+.footer
+{
+
+}
